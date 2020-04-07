@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="enter_value">Enter value</string>
+    <string name="submit">Submit</string>
+</resources>
